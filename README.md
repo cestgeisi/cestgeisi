@@ -1,6 +1,7 @@
-💫 Oi! Meu nome é Geisi :)
+ ❤️‍🔥 Hello there! Meu nome é Geisi :)
 
-##
+
+#
 
 <div align="center">
   <a href="https://github.com/cestgeisi">
@@ -18,7 +19,7 @@
  ##
   
  
-  ![Profile views](https://gpvc.arturio.dev/cestgeisi?v=1)
+ ![Profile views](https://gpvc.arturio.dev/cestgeisi?v=1)
  
 
 
